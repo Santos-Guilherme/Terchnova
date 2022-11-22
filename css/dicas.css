@@ -1,5 +1,6 @@
 main h1 {
     color: black;
+    font-family: 'Kanit', sans-serif; 
     font-size: 30px;
 }
 main div {
@@ -10,6 +11,6 @@ video {
     width: 35%;
 }
 main p {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Kanit', sans-serif; 
     font-size: 17px;
 }

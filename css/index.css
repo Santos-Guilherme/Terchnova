@@ -53,6 +53,11 @@ button {
       height: 200px;
 }
 .textinho {
+      font-family: 'Kanit', sans-serif; 
       font-size: xx-large;
       color: #2B0E64;
+}
+p{
+      font-family: 'Kanit', sans-serif; 
+    font-size: 18px;
 }
